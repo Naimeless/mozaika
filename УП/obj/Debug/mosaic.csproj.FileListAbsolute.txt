@@ -1,0 +1,31 @@
+G:\MyProjects\Programming\MS Visual Studio\InterestPrograms\Обновленные коды\Игра Мозаика\mosaic\bin\Debug\mosaic.exe
+G:\MyProjects\Programming\MS Visual Studio\InterestPrograms\Обновленные коды\Игра Мозаика\mosaic\bin\Debug\mosaic.pdb
+G:\MyProjects\Programming\MS Visual Studio\InterestPrograms\Обновленные коды\Игра Мозаика\mosaic\obj\Debug\mosaic.FormMain.resources
+G:\MyProjects\Programming\MS Visual Studio\InterestPrograms\Обновленные коды\Игра Мозаика\mosaic\obj\Debug\mosaic.SetDlg.resources
+G:\MyProjects\Programming\MS Visual Studio\InterestPrograms\Обновленные коды\Игра Мозаика\mosaic\obj\Debug\mosaic.HelpDlg.resources
+G:\MyProjects\Programming\MS Visual Studio\InterestPrograms\Обновленные коды\Игра Мозаика\mosaic\obj\Debug\mosaic.Properties.Resources.resources
+G:\MyProjects\Programming\MS Visual Studio\InterestPrograms\Обновленные коды\Игра Мозаика\mosaic\obj\Debug\mosaic.csproj.GenerateResource.cache
+G:\MyProjects\Programming\MS Visual Studio\InterestPrograms\Обновленные коды\Игра Мозаика\mosaic\obj\Debug\mosaic.csproj.CoreCompileInputs.cache
+G:\MyProjects\Programming\MS Visual Studio\InterestPrograms\Обновленные коды\Игра Мозаика\mosaic\obj\Debug\mosaic.exe
+G:\MyProjects\Programming\MS Visual Studio\InterestPrograms\Обновленные коды\Игра Мозаика\mosaic\obj\Debug\mosaic.pdb
+G:\MyProjects\Programming\MS Visual Studio\InterestPrograms\Обновленные коды\Игра Мозаика\mosaic\obj\Debug\mosaic.csprojAssemblyReference.cache
+C:\Users\Бестия\Desktop\mosaic\bin\Debug\mosaic.exe
+C:\Users\Бестия\Desktop\mosaic\bin\Debug\mosaic.pdb
+C:\Users\Бестия\Desktop\mosaic\obj\Debug\mosaic.csprojAssemblyReference.cache
+C:\Users\Бестия\Desktop\mosaic\obj\Debug\mosaic.FormMain.resources
+C:\Users\Бестия\Desktop\mosaic\obj\Debug\mosaic.SetDlg.resources
+C:\Users\Бестия\Desktop\mosaic\obj\Debug\mosaic.HelpDlg.resources
+C:\Users\Бестия\Desktop\mosaic\obj\Debug\mosaic.Properties.Resources.resources
+C:\Users\Бестия\Desktop\mosaic\obj\Debug\mosaic.csproj.GenerateResource.cache
+C:\Users\Бестия\Desktop\mosaic\obj\Debug\mosaic.exe
+C:\Users\Бестия\Desktop\mosaic\obj\Debug\mosaic.pdb
+C:\Users\Бестия\Desktop\УП\obj\Debug\mosaic.csprojAssemblyReference.cache
+C:\Users\Бестия\Desktop\УП\obj\Debug\mosaic.FormMain.resources
+C:\Users\Бестия\Desktop\УП\obj\Debug\mosaic.SetDlg.resources
+C:\Users\Бестия\Desktop\УП\obj\Debug\mosaic.HelpDlg.resources
+C:\Users\Бестия\Desktop\УП\obj\Debug\mosaic.csproj.GenerateResource.cache
+C:\Users\Бестия\Desktop\УП\obj\Debug\mosaic.exe
+C:\Users\Бестия\Desktop\УП\obj\Debug\mosaic.pdb
+C:\Users\Бестия\Desktop\УП\bin\Debug\mosaic.exe
+C:\Users\Бестия\Desktop\УП\bin\Debug\mosaic.pdb
+C:\Users\Бестия\Desktop\УП\obj\Debug\mosaic.Properties.Resources.resources
